@@ -1,0 +1,211 @@
+    {
+      "id": "lg-tv-remote",
+      "name": "LG 55LM660S Smart TV",
+      "class": "ButtonsDevice",
+      "buttons": [
+        {
+          "id": "lgtv-power",
+          "text": "Power"
+        },
+        {
+          "id": "lgtv-qmark",
+          "text": "?"
+        },
+        {
+          "id": "lgtv-ratio",
+          "text": "Ratio"
+        },
+        {
+          "id": "lgtv-input",
+          "text": "Input"
+        },
+        {
+          "id": "lgtv-tvrad",
+          "text": "TV/Rad"
+        },
+        {
+          "id": "lgtv-1",
+          "text": "1"
+        },
+        {
+          "id": "lgtv-2",
+          "text": "2"
+        },
+        {
+          "id": "lgtv-3",
+          "text": "3"
+        },
+        {
+          "id": "lgtv-4",
+          "text": "4"
+        },
+        {
+          "id": "lgtv-5",
+          "text": "5"
+        },
+        {
+          "id": "lgtv-6",
+          "text": "6"
+        },
+        {
+          "id": "lgtv-7",
+          "text": "7"
+        },
+        {
+          "id": "lgtv-8",
+          "text": "8"
+        },
+        {
+          "id": "lgtv-9",
+          "text": "9"
+        },
+        {
+          "id": "lgtv-0",
+          "text": "0"
+        },
+        {
+          "id": "lgtv-list",
+          "text": "List"
+        },
+        {
+          "id": "lgtv-qview",
+          "text": "Q.View"
+        },
+        {
+          "id": "lgtv-fav",
+          "text": "Fav"
+        },
+        {
+          "id": "lgtv-3d",
+          "text": "3D"
+        },
+        {
+          "id": "lgtv-mute",
+          "text": "Mute"
+        },
+        {
+          "id": "lgtv-volplus",
+          "text": "Vol+"
+        },
+        {
+          "id": "lgtv-volminus",
+          "text": "Vol-"
+        },
+        {
+          "id": "lgtv-progplus",
+          "text": "Prog+"
+        },
+        {
+          "id": "lgtv-progminus",
+          "text": "Prog-"
+        },
+        {
+          "id": "lgtv-settings",
+          "text": "Settings"
+        },
+        {
+          "id": "lgtv-home",
+          "text": "Home"
+        },
+        {
+          "id": "lgtv-myapps",
+          "text": "MyApps"
+        },
+        {
+          "id": "lgtv-up",
+          "text": "Up"
+        },
+        {
+          "id": "lgtv-down",
+          "text": "Down"
+        },
+        {
+          "id": "lgtv-left",
+          "text": "Left"
+        },
+        {
+          "id": "lgtv-right",
+          "text": "Right"
+        },
+        {
+          "id": "lgtv-ok",
+          "text": "OK"
+        },
+        {
+          "id": "lgtv-back",
+          "text": "Back"
+        },
+        {
+          "id": "lgtv-guide",
+          "text": "Guide"
+        },
+        {
+          "id": "lgtv-exit",
+          "text": "Exit"
+        },
+        {
+          "id": "lgtv-red",
+          "text": "Red"
+        },
+        {
+          "id": "lgtv-green",
+          "text": "Green"
+        },
+        {
+          "id": "lgtv-yellow",
+          "text": "Yellow"
+        },
+        {
+          "id": "lgtv-blue",
+          "text": "Blue"
+        },
+        {
+          "id": "lgtv-text",
+          "text": "Text"
+        },
+        {
+          "id": "lgtv-topt",
+          "text": "T.Opt"
+        },
+        {
+          "id": "lgtv-qmenu",
+          "text": "Q.Menu"
+        },
+        {
+          "id": "lgtv-stop",
+          "text": "Stop"
+        },
+        {
+          "id": "lgtv-play",
+          "text": "Play"
+        },
+        {
+          "id": "lgtv-pause",
+          "text": "Pause"
+        },
+        {
+          "id": "lgtv-rev",
+          "text": "<<"
+        },
+        {
+          "id": "lgtv-forw",
+          "text": ">>"
+        },
+        {
+          "id": "lgtv-rec",
+          "text": "Rec"
+        },
+        {
+          "id": "lgtv-info",
+          "text": "Info"
+        },
+        {
+          "id": "lgtv-ad",
+          "text": "Ad"
+        },
+        {
+          "id": "lgtv-app",
+          "text": "App"
+        }
+      ]
+    },
