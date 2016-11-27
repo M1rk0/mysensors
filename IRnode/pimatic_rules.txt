@@ -1,0 +1,357 @@
+    {
+      "id": "lgtv-power",
+      "name": "lgtv-power",
+      "rule": "if lgtv-power is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551489775\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-qmark",
+      "name": "lgtv-qmark",
+      "rule": "if lgtv-qmark is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551509665\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-ratio",
+      "name": "lgtv-ratio",
+      "rule": "if lgtv-ratio is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551525985\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-input",
+      "name": "lgtv-input",
+      "rule": "if lgtv-input is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551538735\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-tvrad",
+      "name": "lgtv-tvrad",
+      "rule": "if lgtv-tvrad is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551489520\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-1",
+      "name": "lgtv-1",
+      "rule": "if lgtv-1 is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551520375\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-2",
+      "name": "lgtv-2",
+      "rule": "if lgtv-2 is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551504055\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-3",
+      "name": "lgtv-3",
+      "rule": "if lgtv-3 is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551536695\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-4",
+      "name": "lgtv-4",
+      "rule": "if lgtv-4 is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551495895\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-5",
+      "name": "lgtv-5",
+      "rule": "if lgtv-5 is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551528535\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-6",
+      "name": "lgtv-6",
+      "rule": "if lgtv-6 is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551512215\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-7",
+      "name": "lgtv-7",
+      "rule": "if lgtv-7 is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551544855\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-8",
+      "name": "lgtv-8",
+      "rule": "if lgtv-8 is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551491815\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-9",
+      "name": "lgtv-9",
+      "rule": "if lgtv-9 is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551524455\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-0",
+      "name": "lgtv-0",
+      "rule": "if lgtv-0 is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551487735\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-list",
+      "name": "lgtv-list",
+      "rule": "if lgtv-list is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551537205\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-qview",
+      "name": "lgtv-qview",
+      "rule": "if lgtv-qview is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551508135\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-fav",
+      "name": "lgtv-fav",
+      "rule": "if lgtv-fav is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551516295\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-3d",
+      "name": "lgtv-3d",
+      "rule": "if lgtv-3d is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551500740\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-mute",
+      "name": "lgtv-mute",
+      "rule": "if lgtv-mute is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551522415\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-volplus",
+      "name": "lgtv-volplus",
+      "rule": "if lgtv-volplus is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551502015\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-volminus",
+      "name": "lgtv-volminus",
+      "rule": "if lgtv-volminus is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551534655\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-progplus",
+      "name": "lgtv-progplus",
+      "rule": "if lgtv-progplus is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551485695\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-progminus",
+      "name": "lgtv-progminus",
+      "rule": "if lgtv-progminus is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551518335\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-settings",
+      "name": "lgtv-settings",
+      "rule": "if lgtv-settings is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551535165\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-home",
+      "name": "lgtv-home",
+      "rule": "if lgtv-home is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551501505\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-myapps",
+      "name": "lgtv-myapps",
+      "rule": "if lgtv-myapps is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551502525\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-up",
+      "name": "lgtv-up",
+      "rule": "if lgtv-up is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551486205\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-down",
+      "name": "lgtv-down",
+      "rule": "if lgtv-down is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551518845\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-left",
+      "name": "lgtv-left",
+      "rule": "if lgtv-left is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551542815\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-right",
+      "name": "lgtv-right",
+      "rule": "if lgtv-right is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551510175\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-ok",
+      "name": "lgtv-ok",
+      "rule": "if lgtv-ok is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551494365\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-back",
+      "name": "lgtv-back",
+      "rule": "if lgtv-back is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551490795\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-guide",
+      "name": "lgtv-guide",
+      "rule": "if lgtv-guide is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551540010\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-exit",
+      "name": "lgtv-exit",
+      "rule": "if lgtv-exit is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551541285\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-red",
+      "name": "lgtv-red",
+      "rule": "if lgtv-red is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551505585\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-green",
+      "name": "lgtv-green",
+      "rule": "if lgtv-green is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551521905\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-yellow",
+      "name": "lgtv-yellow",
+      "rule": "if lgtv-yellow is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551536185\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-blue",
+      "name": "lgtv-blue",
+      "rule": "if lgtv-blue is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551519865\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-text",
+      "name": "lgtv-text",
+      "rule": "if lgtv-text is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551486715\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-topt",
+      "name": "lgtv-topt",
+      "rule": "if lgtv-topt is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551519355\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-qmenu",
+      "name": "lgtv-qmenu",
+      "rule": "if lgtv-qmenu is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551527005\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-stop",
+      "name": "lgtv-stop",
+      "rule": "if lgtv-stop is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551521650\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-play",
+      "name": "lgtv-play",
+      "rule": "if lgtv-play is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551489010\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-pause",
+      "name": "lgtv-pause",
+      "rule": "if lgtv-pause is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551509410\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-rev",
+      "name": "lgtv-rev",
+      "rule": "if lgtv-rev is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551547150\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-forw",
+      "name": "lgtv-forw",
+      "rule": "if lgtv-forw is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551514510\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-rec",
+      "name": "lgtv-rec",
+      "rule": "if lgtv-rec is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551533890\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-info",
+      "name": "lgtv-info",
+      "rule": "if lgtv-info is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551507370\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-ad",
+      "name": "lgtv-ad",
+      "rule": "if lgtv-ad is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551520630\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "lgtv-app",
+      "name": "lgtv-app",
+      "rule": "if lgtv-app is pressed then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"551549190\"",
+      "active": true,
+      "logging": true
+    },
