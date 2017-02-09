@@ -1,0 +1,28 @@
+    {
+      "id": "moodlight1-color",
+      "name": "moodlight1 color",
+      "rule": "when $moodlight.color changes then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"$moodlight.color\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "moodlight1-brightness",
+      "name": "moodlight1 brightness",
+      "rule": "when $moodlight.brightness changes then send custom \"V_DIMMER\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"$moodlight.brightness\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "moodlight1-power-off",
+      "name": "moodlight1 power off",
+      "rule": "when $moodlight.power decreased then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"#000000\"",
+      "active": true,
+      "logging": true
+    },
+    {
+      "id": "moodlight1-power-on",
+      "name": "moodlight1 power on",
+      "rule": "when $moodlight.power increased then send custom \"V_VAR1\" nodeid: \"20\" sensorid: \"0\" cmdcode: \"$moodlight.color\"",
+      "active": true,
+      "logging": true
+    },
