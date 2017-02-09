@@ -1,0 +1,6 @@
+    {
+      "id": "moodlight",
+      "name": "Moodlight",
+      "class": "DummyLedLight",
+      "hap": {}
+    },
